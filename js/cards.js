@@ -1,6 +1,6 @@
 flashcardDeck = {
-  title: "JS",
-  catchPhrase: "Test how well you know JavaScript",
+  title: "Docker Certified Associate",
+  catchPhrase: "Test how well you know Docker",
   cards: [
     {
     "question": "What is the endpoint that we can use to check the health of a single UCP manager node?",
