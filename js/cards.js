@@ -56,9 +56,7 @@ flashcardDeck = {
   },
   {
     "question": "Paul have some containerized software that needs to have a reference to the hostname of the node that the software is running on. Which of the following commands Paul will pass the node hostname as an environment variable into each task in a service?",
-    "answer": "`docker service create --env NODE_HOSTNAME="\{\{.Node.Hostname\
-      }\
-    }" nginx`"
+    "answer": "`docker service create --env NODE_HOSTNAME=\"{{.Node.Hostname}}\" nginx`"
   },
   {
     "question": "Which of the below correct command that need to be executed to sign an image before pushing it to repository?",
