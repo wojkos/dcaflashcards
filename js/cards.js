@@ -415,6 +415,6 @@ flashcardDeck = {
   {
     "question": "What are logging drivers?",
     "answer": "Docker has multiple mechanisms to get the logging information from running docker containers and services. These mechanisms are called logging drivers"
-  },
+  }
   ]
 };
